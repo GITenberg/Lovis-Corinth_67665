@@ -1,0 +1,45 @@
+_repo: Lovis-Corinth_67665
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Corinth, Lovis
+    aliases:
+    - Korint, Lovis
+    - Corinth, Louis
+    - Corinth, Franz Heinrich Louis
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '54406'
+    url: http://www.gutenberg.org/2009/agents/54406
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Lovis_Corinth
+    - https://en.wikipedia.org/wiki/Lovis_Corinth
+creator:
+  author:
+    agent_name: Biermann, Georg
+    birthdate: 1880
+    deathdate: 1949
+    gutenberg_agent_id: '54384'
+    url: http://www.gutenberg.org/2009/agents/54384
+    wikipedia: https://de.wikipedia.org/wiki/Georg_Biermann
+description: ''
+gutenberg_issued: '2022-03-20'
+identifiers:
+  gutenberg: '67665'
+language: de
+pgterms:marc905: 20191224083855biermann
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: Germany :Velhagen & Klasing,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Künstler-Monographien: 107 [CVII]'
+subjects:
+- !lcsh 'Corinth, Lovis, 1858-1925'
+- !lcc 'ND'
+- GITenberg
+title: Lovis Corinth
+url: http://www.gutenberg.org/ebooks/67665
