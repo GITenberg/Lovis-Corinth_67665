@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://de.wikipedia.org/wiki/Lovis_Corinth
     - https://en.wikipedia.org/wiki/Lovis_Corinth
+covers:
+- cover_type: archival
+  image_path: 67665-h/images/cover.jpg
 creator:
   author:
     agent_name: Biermann, Georg
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54384
     wikipedia: https://de.wikipedia.org/wiki/Georg_Biermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67665#Lovis-Corinth
 gutenberg_issued: '2022-03-20'
 identifiers:
   gutenberg: '67665'
